@@ -1,0 +1,63 @@
+<svg width="100%" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Alex — Indie Game Developer">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#8B949E" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="1200" height="2" fill="#E6EDF3" opacity="0.05">
+    <animate attributeName="y" values="0;280;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="6" y="6" width="1188" height="268" rx="14" fill="none" stroke="url(#neonGrad)" stroke-width="1.5" opacity="0.5"/>
+
+  <g stroke="#38BDF8" stroke-width="2.5" fill="none" opacity="0.9">
+    <path d="M24,52 L24,24 L52,24"/>
+    <path d="M1148,24 L1176,24 L1176,52"/>
+    <path d="M1176,228 L1176,256 L1148,256"/>
+    <path d="M52,256 L24,256 L24,228"/>
+  </g>
+
+  <text x="40" y="50" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="16" fill="#8B949E">&gt; whoami</text>
+  <text x="40" y="74" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="16" fill="#38BDF8">alex-404-png<tspan fill="#E6EDF3">_</tspan></text>
+  <rect x="192" y="60" width="9" height="18" fill="#38BDF8">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.4;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-weight="800" font-size="84" letter-spacing="6">
+    <text x="40" y="180" fill="#F472B6">
+      ALEX
+      <animate attributeName="opacity" values="0;0;0.6;0;0" keyTimes="0;0.18;0.2;0.22;1" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="40;40;36;40;40" keyTimes="0;0.18;0.2;0.22;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="180" fill="#38BDF8">
+      ALEX
+      <animate attributeName="opacity" values="0;0;0.6;0;0" keyTimes="0;0.42;0.44;0.46;1" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="40;40;44;40;40" keyTimes="0;0.42;0.44;0.46;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="40" y="180" fill="#E6EDF3" filter="url(#glow)">ALEX</text>
+  </g>
+
+  <text x="40" y="218" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="20" font-weight="600" letter-spacing="3" fill="#A855F7">INDIE GAME DEVELOPER</text>
+  <text x="40" y="246" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="14" fill="#8B949E">Programmer · Problem Solver · Open Source Enthusiast</text>
+
+  <text x="1176" y="266" text-anchor="end" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="12" fill="#8B949E" opacity="0.6">// 404: sleep not found</text>
+</svg>

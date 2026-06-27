@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 1200 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#A855F7"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="85%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dotGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect x="0" y="15" width="1200" height="2" fill="url(#lineGrad)" opacity="0.75"/>
+  <circle r="5" fill="#38BDF8" filter="url(#dotGlow)">
+    <animateMotion path="M0,16 L1200,16" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2.5" fill="#E6EDF3">
+    <animateMotion path="M0,16 L1200,16" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
