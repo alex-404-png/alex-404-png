@@ -14,7 +14,7 @@
 
 ```js
 const alex = {
-  role: "Indie Game Developer",
+  role: "DEVELPOER",
   basedIn: "somewhere between Debug and Release",
   languages: ["C", "C++", "C#", "Java", "Python", "JavaScript"],
   currentBuild: "v0.1.0-alpha",
@@ -41,10 +41,10 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 ### 🎯 Current Mission
 
 <!-- ✏️ EDIT: swap in your real project name, one-line pitch, and repo link -->
-> **`[PROJECT CODENAME]`** — a one-line pitch for the game I'm currently building.
+> **`bubbleplaza`** — a one-line pitch for the game I'm currently building.
 >
 > ![status](https://img.shields.io/badge/status-in%20development-A855F7?style=flat-square&labelColor=0D1117)
-> ![engine](https://img.shields.io/badge/engine-%5BYOUR%20ENGINE%5D-38BDF8?style=flat-square&labelColor=0D1117)
+> ![unity](https://img.shields.io/badge/engine-%5BYOUR%20ENGINE%5D-38BDF8?style=flat-square&labelColor=0D1117)
 > [`→ follow progress`](#)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
