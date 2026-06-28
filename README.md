@@ -81,7 +81,7 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 </tr>
 </table>
 
-<div align="center"><sub>📌 tip: pin these same repos at the top of your profile via <b>Customize your pins</b> on github.com</sub></div>
+<div align="center"><sub>📌 tip: THISA ARE THE TOP PROJECTS <b>Customize your pins</b> on github.com</sub></div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
