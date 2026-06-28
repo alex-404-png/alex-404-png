@@ -89,7 +89,7 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 
 **Languages**
 <br/>
-![C](https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
 ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=A855F7)
 ![C#](https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logo=csharp&logoColor=38BDF8)
 ![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=A855F7)
