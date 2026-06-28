@@ -56,10 +56,10 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 <tr>
 <td width="33%" valign="top">
 
-**🚀 [Project One](#)**
-<br/>One-line description of what it does and why it's interesting.
+**🚀 [NovaCommerce Dashboard](#)**
+<br/>A premium frontend dashboard for e-commerce management featuring a responsive layout, interactive UI components, analytics widgets, product management, order tracking, and customer management—all built using HTML.
 <br/><br/>
-![](https://img.shields.io/badge/-C++-161B22?style=flat-square&logo=cplusplus&logoColor=A855F7)
+![](https://img.shields.io/badge/-HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26)
 
 </td>
 <td width="33%" valign="top">
