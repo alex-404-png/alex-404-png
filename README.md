@@ -44,7 +44,7 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 > **`bubbleplaza`** — a one-line pitch for the game I'm currently building.
 >
 > ![status](https://img.shields.io/badge/status-in%20development-A855F7?style=flat-square&labelColor=0D1117)
-> ![unity](https://img.shields.io/badge/engine-%5BYOUR%20ENGINE%5D-38BDF8?style=flat-square&labelColor=0D1117)
+> ![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 > [`→ follow progress`](#)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
