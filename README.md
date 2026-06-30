@@ -118,11 +118,8 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 
 <div align="center">
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=alex-404-png&show_icons=true&theme=transparent&title_color=A855F7&icon_color=38BDF8&text_color=E6EDF3&bg_color=0D1117&border_color=161B22"
-  alt="GitHub Stats"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-404- png&show_icons=true&theme=transparent&title_color=A855F7&icon_color=38BDF8&text_color=E6EDF3&bg_color=0D1117&border_color=161B22" alt="GitHub Stats" />
+  
 <img height="165" src="https://streak-stats.demolab.com/?user=alex-404-png&theme=dark&background=0D1117&ring=A855F7&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8B949E&dates=8B949E&border=161B22" alt="GitHub streak" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-404-png&layout=compact&theme=transparent&title_color=A855F7&text_color=E6EDF3&bg_color=0D1117&border_color=161B22&hide_border=false" alt="Top languages" />
