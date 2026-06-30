@@ -64,8 +64,8 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 </td>
 <td width="33%" valign="top">
 
-**🧪 [Project Two](#)**
-<br/>One-line description of what it does and why it's interesting.
+**🧪 [chess ai](#)**
+<br/>**Chess AI** is a modern chess game built with **Python** and **Pygame**, featuring an intelligent AI opponent powered by the **Minimax algorithm** with **Alpha-Beta Pruning**. Enjoy complete chess rules, multiple AI difficulty levels, move highlighting, and a clean, responsive interface for a strategic single-player experience.
 <br/><br/>
 ![](https://img.shields.io/badge/-Python-161B22?style=flat-square&logo=python&logoColor=38BDF8)
 
