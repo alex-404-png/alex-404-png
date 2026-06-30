@@ -104,7 +104,7 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 
 **Game Dev** <!-- ✏️ EDIT: add your real engine(s) — Unity / Unreal / Godot / a custom engine -->
 <br/>
-![Engine](https://img.shields.io/badge/Engine-%5BYOUR%20ENGINE%5D-161B22?style=for-the-badge&logoColor=A855F7)
+![Engine](https://img.shields.io/badge/Engine-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
