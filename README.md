@@ -158,10 +158,11 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 <!-- ✏️ EDIT: replace these with your real handles/links, or delete the ones you don't use -->
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A855F7)](mailto:you@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=38BDF8)](https://twitter.com/yourhandle)
-[![itch.io](https://img.shields.io/badge/itch.io-161B22?style=for-the-badge&logo=itchdotio&logoColor=A855F7)](https://yourname.itch.io)
-[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=38BDF8)](https://discord.gg/yourinvite)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=A855F7)]
+(mailto: uboy5667@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=x&logoColor=38BDF8)](https://instagram.com/alex_sonavane)
+[![itch.io](https://img.shields.io/badge/itch.io-161B22?style=for-the-badge&logo=itchdotio&logoColor=A855F7)](https://alex-404-png.itch.io/)
+[![Discord](https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=38BDF8)](https://discord.gg/ustsZnzts)
 
 </div>
 
