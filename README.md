@@ -81,7 +81,7 @@ I build things — mostly games, sometimes tools, occasionally chaos. I like sys
 </tr>
 </table>
 
-<div align="center"><sub>📌 tip: THIS ARE THE TOP PROJECTS <b> VISIT NOW </b> on github.com</sub></div>
+<div align="center"><sub>📌 tip: THIS ARE THE LATEST PROJECTS <b> VISIT NOW </b> on github.com</sub></div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
