@@ -1,0 +1,43 @@
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hero illustration of a sailing ship on open water beneath a compass rose and stars">
+  <title>Voyage hero illustration</title>
+
+  <g fill="#0EA5E9">
+    <circle cx="120" cy="30" r="1.5"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="24" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="50" r="1" fill="#FACC15"><animate attributeName="opacity" values="1;0.4;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="60" r="1"><animate attributeName="opacity" values="0.4;1;0.4" dur="4.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(1000,55)" opacity="0.55">
+    <circle r="30" fill="none" stroke="#0EA5E9" stroke-width="1"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/>
+      <line x1="0" y1="-24" x2="0" y2="24" stroke="#0EA5E9" stroke-width="0.75"/>
+      <line x1="-24" y1="0" x2="24" y2="0" stroke="#0EA5E9" stroke-width="0.75"/>
+      <polygon points="0,-20 3,0 0,6 -3,0" fill="#FACC15"/>
+    </g>
+  </g>
+
+  <path d="M840,140 Q870,118 900,140 Q930,124 970,140 L970,150 L840,150 Z" fill="#334155" opacity="0.6"/>
+
+  <g transform="translate(220,100)" stroke="#0EA5E9" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-70,40 L70,40 L50,60 L-50,60 Z" fill="#0F172A" stroke="#0EA5E9"/>
+    <line x1="0" y1="40" x2="0" y2="-45"/>
+    <path d="M2,-42 L46,-8 L2,10 Z" fill="#0EA5E9" opacity="0.15"/>
+    <path d="M-2,-30 L-34,-4 L-2,12 Z" fill="#0EA5E9" opacity="0.1"/>
+    <circle cx="0" cy="-45" r="2" fill="#FACC15"/>
+  </g>
+
+  <path d="M0,150 Q60,138 120,150 T240,150 T360,150 T480,150 T600,150 T720,150 T840,150 T960,150 T1080,150 T1200,150"
+    fill="none" stroke="#0EA5E9" stroke-width="1.5" stroke-linecap="round" opacity="0.7">
+    <animate attributeName="d"
+      values="M0,150 Q60,138 120,150 T240,150 T360,150 T480,150 T600,150 T720,150 T840,150 T960,150 T1080,150 T1200,150;
+              M0,150 Q60,160 120,150 T240,150 T360,150 T480,150 T600,150 T720,150 T840,150 T960,150 T1080,150 T1200,150;
+              M0,150 Q60,138 120,150 T240,150 T360,150 T480,150 T600,150 T720,150 T840,150 T960,150 T1080,150 T1200,150"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,162 Q60,154 120,162 T240,162 T360,162 T480,162 T600,162 T720,162 T840,162 T960,162 T1080,162 T1200,162"
+    fill="none" stroke="#38BDF8" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+
+  <path d="M300,120 Q450,100 600,115 T900,105" fill="none" stroke="#CBD5E1" stroke-width="1" stroke-dasharray="4 6" opacity="0.4"/>
+</svg>

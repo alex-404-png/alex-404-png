@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Icon of a lighthouse with a light beam over the horizon">
+  <title>Future expeditions icon</title>
+  <path d="M20,40 L22,16 L26,16 L28,40 Z" fill="none" stroke="#0EA5E9" stroke-width="1.5" stroke-linejoin="round"/>
+  <rect x="19" y="10" width="10" height="6" fill="none" stroke="#0EA5E9" stroke-width="1.25"/>
+  <line x1="16" y1="40" x2="32" y2="40" stroke="#334155" stroke-width="1"/>
+  <g opacity="0.5">
+    <path d="M29,13 L44,6" stroke="#FACC15" stroke-width="1" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M29,13 L44,20" stroke="#FACC15" stroke-width="1" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <circle cx="24" cy="13" r="1.5" fill="#FACC15"/>
+</svg>

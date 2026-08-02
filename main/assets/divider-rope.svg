@@ -1,0 +1,6 @@
+<svg width="100%" height="36" viewBox="0 0 1200 36" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative divider styled as a coiled rope">
+  <line x1="0" y1="18" x2="1200" y2="18" stroke="#334155" stroke-width="1"/>
+  <path d="M0,18 Q15,6 30,18 T60,18 T90,18 T120,18 T150,18 T180,18 T210,18 T240,18 T270,18 T300,18 T330,18 T360,18 T390,18 T420,18 T450,18 T480,18 T510,18 T540,18 T570,18 T600,18 T630,18 T660,18 T690,18 T720,18 T750,18 T780,18 T810,18 T840,18 T870,18 T900,18 T930,18 T960,18 T990,18 T1020,18 T1050,18 T1080,18 T1110,18 T1140,18 T1170,18 T1200,18"
+    fill="none" stroke="#0EA5E9" stroke-width="1.75" opacity="0.75"/>
+  <circle cx="600" cy="18" r="3" fill="#FACC15" opacity="0.9"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Icon of a compass over a navigation grid">
+  <title>Tech arsenal icon</title>
+  <g stroke="#334155" stroke-width="0.75" opacity="0.6">
+    <line x1="6" y1="16" x2="42" y2="16"/>
+    <line x1="6" y1="32" x2="42" y2="32"/>
+    <line x1="16" y1="6" x2="16" y2="42"/>
+    <line x1="32" y1="6" x2="32" y2="42"/>
+  </g>
+  <circle cx="24" cy="24" r="14" fill="none" stroke="#0EA5E9" stroke-width="1.5"/>
+  <g transform="translate(24,24)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite" additive="sum"/>
+    <polygon points="0,-10 2.5,0 0,3 -2.5,0" fill="#0EA5E9"/>
+    <polygon points="0,10 2.5,0 0,-3 -2.5,0" fill="#FACC15"/>
+  </g>
+</svg>
